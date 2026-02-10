@@ -1,2 +1,2 @@
 # ReactExpressToDo
-A basic ToDo app using React and Express. 
+A basic To-Do app using React and Express. 
